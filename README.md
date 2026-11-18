@@ -10,5 +10,5 @@
 <p>Web Development</p>
 <h3>📫 Connect With Me</h3>
 <p>
-<a href="YOUR_LINKEDIN_URL">LinkendIn</a>
+<a href="www.linkedin.com/in/deepthi-mangala-6a3a56373">LinkendIn</a>
 </p>
